@@ -1,6 +1,6 @@
 Anwendung;Version;Produkttypversionen
-E-Rezept;1.0;gemProdT_eRp_FD_PTV_1.2.0-0||gemProdT_eRp_FdV_PTV_1.2.0-0
-E-Rezept;1.1;gemProdT_eRp_FD_PTV_1.3.0-0||gemProdT_eRp_FdV_PTV_1.3.0-0
+E-Rezept;1.0;gemProdT_eRp_FD_PTV_1.2.0-0||gemProdT_eRp_FdV_PTV_1.2.0-0||gemProdT_eRp_APOVZD_PTV_1.0.0-0||gemProdT_Kon_PTV4Plus_4.80.3-0
+E-Rezept;1.1;gemProdT_eRp_FD_PTV_1.3.0-0||gemProdT_eRp_FdV_PTV_1.3.0-0||gemProdT_eRp_APOVZD_PTV_1.0.0-0||gemProdT_Kon_PTV4Plus_4.80.3-0||gemProdT_Kon_PTV5_5.0.2-0
 E-Rezept;2.0;
 EMP;1.0;
 EMP;2.0;
