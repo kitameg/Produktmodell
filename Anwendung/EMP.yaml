@@ -1,0 +1,8 @@
+Anwendung: EMP
+Langname: E-Medikationsplan
+Produktteam: Medical
+Versionen:
+  - Version: 1.0
+  - Version: 2.0
+Produkttypen:
+  - Type-Id: gemProdT_Kon
