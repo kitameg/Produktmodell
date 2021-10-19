@@ -1,0 +1,19 @@
+gemProdT_Kon:
+  interfaces:
+    - name: AuthSignatureService
+    - name: CardService
+    - name: CardTerminalService
+    - name: CertificateService
+    - name: EncryptionService
+    - name: EventService
+    - name: ServiceDirectory
+    - name: SignatureService
+    - name: AMTSService
+    - name: DPEService
+    - name: NFDService
+    - name: PHRManagementService
+    - name: PHRService
+  versions:
+    - version: 4.80.2
+    - version: 4.8.2-0
+    - version: 5.0.2-0
