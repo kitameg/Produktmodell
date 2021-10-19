@@ -1,9 +1,9 @@
 Anwendung;Langname;Produktteam;Produkttypen
-E-Rezept;E-Rezept;Medical;gemProdT_eRp_FD || gemProdT_eRp_FdV || gemProdT_Kon
+E-Rezept;E-Rezept;Medical;gemProdT_eRp_FD||gemProdT_eRp_FdV||gemProdT_Kon
 EMP;E-Medikationsplan;Medical;gemProdT_Kon
-E-Rezept;E-Rezept;Medical;gemProdT_eRp_FD || gemProdT_eRp_FdV || gemProdT_Kon
+E-Rezept;E-Rezept;Medical;gemProdT_eRp_FD||gemProdT_eRp_FdV||gemProdT_Kon
 WANDA;WANDA;Core Infrastructure;gemProdT_ZentrNetz
-TI-Messenger;TI-Messenger;Communications;gemProdT_TIM_FD || gemProdT_TIM_Client || gemProdT_VZD_FHIR
+TI-Messenger;TI-Messenger;Communications;gemProdT_TIM_FD||gemProdT_TIM_Client||gemProdT_VZD_FHIR
 NFDM;Notfalldatenmanagement;Edge;gemProdT_Kon
 KIM;Kommunikation in Medizinwesen;Communications;gemProdT_Kon
 EPA;E-Patientenakte;Patient;gemProdT_Kon
