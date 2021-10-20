@@ -1,6 +1,15 @@
 Anwendung: E-Rezept
 Langname: E-Rezept
 Produktteam: Medical
+Produkttypen:
+  - Type-Id: gemProdT_eRp_FD
+  - Type-Id: gemProdT_eRp_FdV
+  - Type-Id: gemProdT_Kon
+  - Type-Id: gemProdT_eRp_APOVZD
+  - Type-Id: gemProdT_IDP-Dienst
+  - Type-Id: gemProdT_HBA
+  - Type-Id: gemProdT_SMC-B
+  - Type-Id: gemProdT_VZD
 Versionen:
   - Version: 1.0
     Produkttypversionen:
@@ -16,8 +25,3 @@ Versionen:
       - Type-Id: gemProdT_Kon_PTV4Plus_4.80.3-0
       - Type-Id: gemProdT_Kon_PTV5_5.0.2-0
   - Version: 2.0
-Produkttypen:
-  - Type-Id: gemProdT_eRp_FD
-  - Type-Id: gemProdT_eRp_FdV
-  - Type-Id: gemProdT_Kon
-  - Type-Id: gemProdT_eRp_APOVZD
