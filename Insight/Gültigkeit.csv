@@ -1,0 +1,8 @@
+Quelle,Quelle-Id,Quelle-URL,Title
+Polarion,inPreparation,https://polarion.int.gematik.de/polarion/,in Vorbereitung
+Polarion,notApprovable,https://polarion.int.gematik.de/polarion/,nicht zulassungsfähig
+Polarion,approvable,https://polarion.int.gematik.de/polarion/,zulassungsfähig
+Polarion,confirmable,https://polarion.int.gematik.de/polarion/,bestätigungsfähig
+Polarion,valid,https://polarion.int.gematik.de/polarion/,gültig (keine Neuzulassung)
+Polarion,discontinued,https://polarion.int.gematik.de/polarion/,abgekündigt
+Polarion,endOfLife,https://polarion.int.gematik.de/polarion/,EOL (EndOfLife)
