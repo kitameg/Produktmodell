@@ -1,76 +1,77 @@
-﻿Name;Type-Id;TI-Betrieb Id;Produktteam
-Zulassungsobjekt COS;gemProdT_COS;;Smartcard
-Zulassungsobjekt eGK-Objektsystem;gemProdT_eGK_ObjSys;;Smartcard
-Bestätigungsgegenstand Sicherheit für die Herausgabe- und Nutzungsprozesse der eGK (G2);gemProdT_eGK_Sich;;Smartcard
-Bestätigungsgegenstand Personalisierungsvalidierung eGK (G2);gemProdT_eGK_PersVal;;Smartcard
-Zulassungsobjekt HBA-Objektsystem;gemProdT_HBA_ObjSys;;Smartcard
-HBA (personalisiert);gemProdT_HBA;ML-123416 - PDT13;Smartcard
-Zulassungsobjekt SMC-B-Objektsystem;gemProdT_SMC-B_ObjSys;;Smartcard
-SMC-B (personalisiert);gemProdT_SMC-B;ML-123417 - PDT14;Smartcard
-Zulassungsobjekt gSMC-K-Objektsystem;gemProdT_gSMC-K_ObjSys;;Smartcard
-Zulassungsobjekt gSMC-KT-Objektsystem;gemProdT_gSMC-KT_ObjSys;;Smartcard
-Zulassungsobjekt eGK-Objektsystem G2.1;gemProdT_eGK_ObjSys_G2_1;;Smartcard
-Bestätigungsgegenstand Sicherheit für die Herausgabe- und Nutzungsprozesse der eGK G2.1;gemProdT_eGK_Sich_G2_1;;Smartcard
-Bestätigungsgegenstand Personalisierungsvalidierung eGK G2.1;gemProdT_eGK_PersVal_G2_1;;Smartcard
-Zulassungsobjekt HBA-Objektsystem G2.1;gemProdT_HBA_ObjSys_G2_1;;Smartcard
-HBA G2.1 (personalisiert);gemProdT_HBA_G2_1;ML-123440 - PDT39;Smartcard
-Zulassungsobjekt SMC-B-Objektsystem G2.1;gemProdT_SMC-B_ObjSys_G2_1;;Smartcard
-SMC-B G2.1 (personalisiert);gemProdT_SMC-B_G2_1;;Smartcard
-Zulassungsobjekt gSMC-KT-Objektsystem G2.1;gemProdT_gSMC-KT_ObjSys_G2_1;;Smartcard
-CVC-Root – ECC;gemProdT_CVC_Root_ECC;ML-123433 - PDT32;Core Infrastructure
-Trust Service Provider CVC;gemProdT_CVC_TSP;ML-123432 - PDT31;Core Infrastructure
-Konnektor;gemProdT_Kon;ML-123420 - PDT17;Edge
-Konnektor PTV1 (VSDM);gemProdT_Kon_PTV1;;Edge
-Konnektor PTV2 (VSDM, NFDM);gemProdT_Kon_PTV2;;Edge
-Konnektor PTV3 (eMP/AMTS, NFDM);gemProdT_Kon_PTV3;;Edge
-Konnektor PTV4 (ePA);gemProdT_Kon_PTV4;;Edge
-Konnektor PTV4 (ePA + Komfortsignatur);gemProdT_Kon_PTV4Plus;;Edge
-Konnektor PTV5 (ePA 2.0 + Komfortsignatur);gemProdT_Kon_PTV5;ML-123420 - PDT17;Edge
-Konfigurationsdienst;gemProdT_KSR;ML-123414 - PDT11;Core Infrastructure
-eHealth-Kartenterminal;gemProdT_KT;ML-123421 - PDT18;Smartcard
-Mobiles Kartenterminal;gemProdT_MobKT;ML-123422 - PDT19;Smartcard
-Namensdienst;gemProdT_NamD;ML-123409 - PDT06;Core Infrastructure
-OCSP-Proxy;gemProdT_OCSP_Proxy;ML-123404 - PDT01;Core Infrastructure
-Störungsampel;gemProdT_St_Ampel;;Core Infrastructure
-TSL-Dienst;gemProdT_TSL;ML-123407 - PDT04;Core Infrastructure
-VPN-Zugangsdienst;gemProdT_VPN_ZugD;ML-123412 - PDT09;Core Infrastructure
-Sicherheitsgateway Bestandsnetze;gemProdT_SG_BestNetze;ML-123413 - PDT10;Core Infrastructure
-Verzeichnisdienst;gemProdT_VZD;ML-123428 - PDT25;Communications
-Trust Service Provider X.509 (nonQES) – Komp;gemProdT_X509_TSP_nonQES_Komp;ML-123438 - PDT37;Core Infrastructure
-Trust Service Provider X.509 (nonQES) – eGK;gemProdT_X509_TSP_nonQES_eGK;ML-123406 - PDT03;Core Infrastructure
-Trust Service Provider X.509 (nonQES) – HBA;gemProdT_X509_TSP_nonQES_HBA;ML-123437 - PDT36;Core Infrastructure
-Trust Service Provider X.509 (nonQES) – SMC-B;gemProdT_X509_TSP_nonQES_SMC-B;ML-123439 - PDT38;Core Infrastructure
-Trust Service Provider X.509 QES;gemProdT_X509_TSP_QES;ML-123405 - PDT02;Core Infrastructure
-Zeitdienst;gemProdT_ZeitD;ML-123410 - PDT07;Core Infrastructure
-Zentrales Netz der TI;gemProdT_ZentrNetz;ML-123411 - PDT08;Core Infrastructure
-Servicemonitoring;gemProdT_ServiceMon;ML-123442 - PDT41;Core Infrastructure
-Fachdienste VSDM;gemProdT_FD_VSDM;ML-123423 - PDT20, ML-123426 - PDT23, ML-123429 - PDT26;Euro Vision
-Intermediär VSDM;gemProdT_Intermediaer_VSDM;ML-123424 - PDT21;Core Infrastructure
-Fachdienst KOM-LE;gemProdT_FD_KOMLE;ML-123427 - PDT24;Communications
-Clientmodul KOM-LE;gemProdT_CM_KOMLE;ML-123430 - PDT27;Communications
-KTR-AdV Terminal;gemProdT_KTR-AdV-Terminal;;Patient
-KTR-AdV;gemProdT_KTR-AdV;ML-123436 - PDT35;Patient
-gematik Root-CA;gemProdT_gematik_Root_CA;ML-123425 - PDT22;Core Infrastructure
-ePA-Aktensystem;gemProdT_Aktensystem_ePA;ML-123444 - PDT43;Patient
-ePA-Frontend des Versicherten;gemProdT_ePA_FdV;ML-123445 - PDT44;Patient
-Basis-Consumer;gemProdT_Basis-Consumer;ML-123446 - PDT45;Edge
-KTR-Consumer;gemProdT_KTR-Consumer;ML-123447 - PDT46;Edge
-ePA-Wiederherstellungsdienst;gemProdT_WHD_ePA;;Patient
-Signaturdienst;gemProdT_SigD;ML-123448 - PDT47;Identity Management
-Schlüsselgenerierungsdienst ePA;gemProdT_SGD_ePA;ML-123449 - PDT48;Identity Management
-ePA-Modul Frontend des Versicherten;gemProdT_ePA-Modul_FdV;;Patient
-E-Rezept-Fachdienst;gemProdT_eRp_FD;ML-123451 - PDT50;Medical
-E-Rezept-Frontend des Versicherten;gemProdT_eRp_FdV;ML-123452 - PDT51;Medical
-E-Rezept-Anwendungen des Versicherten;gemProdT_eRp_AdV;ML-123463 - PDT58;Medical
-Identity Provider - Dienst;gemProdT_IDP-Dienst;ML-123453 - PDT52;Identity Management
-ePA-Frontend des Versicherten im KTR-AdV-Terminal;gemProdT_ePA_FdV_AdV;;Patient
-SMC-B Dual Interface;gemProdT_SMC-B_G2_1_DI;;Smartcard
-SMC-B-Objektsystem Dual Interface;gemProdT_SMC-B_ObjSys_G2_1_DI;;Smartcard
-Private Key Generator;gemProdT_PKG;ML-123465 - PDT60;Identity Management
-Fachdienste VSDM nonGKV;gemProdT_FD_VSDM_nonGKV;ML-123466 - PDT61, ML-123467 - PDT62, ML-123468 - PDT63;Euro Vision
-Identity Provider - Authentisierungsmodul;gemProdT_IDP-AuthModul;ML-123454 - PDT53;Identity Management
-Apothekenverzeichnis;gemProdT_eRp_APOVZD;ML-123464 - PDT59;Medical
-TI-Messager Fachdienst;gemProdT_TIM_FD;ML-123469 - PDT64;Communications
-TI-Messager Frontend;gemProdT_TIM_Client;ML-123470 - PDT65;Communications
-Verzeichnisdienst FHIR;gemProdT_VZD_FHIR;ML-123471 - PDT66;Communications
-Highspeed Konnektor;gemProdT_Konn_Highspeed;ML-124076 - PDT67;Edge
+Quelle,Quelle-Id,Quelle-URL,Sync-Zeitstempel,Status,Type-Id,TI-Betrieb-Ids,AnzeigeName,Title
+Polarion,ML-119362,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-119362,2021-10-27 09:28:59.767789,done,zoPT_Aktensystem_ePA,PDT43,ePA-Aktensystem,gemProdT_Aktensystem_ePA
+Polarion,ML-119365,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-119365,2021-10-27 09:28:59.767979,done,zoPT_Basis_Consumer,PDT45,Basis-Consumer,gemProdT_Basis-Consumer
+Polarion,ML-119348,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-119348,2021-10-27 09:28:59.768136,done,zoPT_CM_KOMLE,PDT27,Clientmodul KOM-LE,gemProdT_CM_KOMLE
+Polarion,ML-119300,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-119300,2021-10-27 09:28:59.768286,done,zoPT_COS,,Zulassungsobjekt COS,gemProdT_COS
+Polarion,ML-119318,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-119318,2021-10-27 09:28:59.768431,done,zoPT_CVC_Root_ECC,PDT32,CVC-Root – ECC,gemProdT_CVC_Root_ECC
+Polarion,ML-119319,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-119319,2021-10-27 09:28:59.768581,done,zoPT_CVC_TSP,PDT31,Trust Service Provider CVC,gemProdT_CVC_TSP
+Polarion,ML-119301,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-119301,2021-10-27 09:28:59.768727,done,zoPT_eGK_ObjSys,,Zulassungsobjekt eGK-Objektsystem,gemProdT_eGK_ObjSys
+Polarion,ML-119310,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-119310,2021-10-27 09:28:59.768868,done,zoPT_eGK_ObjSys_G2_1,,Zulassungsobjekt eGK-Objektsystem G2.1,gemProdT_eGK_ObjSys_G2_1
+Polarion,ML-119303,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-119303,2021-10-27 09:28:59.769010,done,zoPT_eGK_PersVal,,Bestätigungsgegenstand Personalisierungsvalidierung eGK (G2),gemProdT_eGK_PersVal
+Polarion,ML-119312,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-119312,2021-10-27 09:28:59.769153,done,zoPT_eGK_PersVal_G2_1,,Bestätigungsgegenstand Personalisierungsvalidierung eGK G2.1,gemProdT_eGK_PersVal_G2_1
+Polarion,ML-119302,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-119302,2021-10-27 09:28:59.769411,done,zoPT_eGK_Sich,,Bestätigungsgegenstand Sicherheit für die Herausgabe- und Nutzungsprozesse der eGK (G2),gemProdT_eGK_Sich
+Polarion,ML-119311,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-119311,2021-10-27 09:28:59.769566,done,zoPT_eGK_Sich_G2_1,,Bestätigungsgegenstand Sicherheit für die Herausgabe- und Nutzungsprozesse der eGK G2.1,gemProdT_eGK_Sich_G2_1
+Polarion,ML-119374,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-119374,2021-10-27 09:28:59.769719,rejected,zoPT_ePA_Modul_FdV,,ePA-Modul Frontend des Versicherten,gemProdT_ePA-Modul_FdV
+Polarion,ML-119363,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-119363,2021-10-27 09:28:59.769864,done,zoPT_ePA_FdV,PDT44,ePA-Frontend des Versicherten,gemProdT_ePA_FdV
+Polarion,ML-119385,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-119385,2021-10-27 09:28:59.770011,rejected,zoPT_ePA_FdV_AdV,,ePA-Frontend des Versicherten im KTR-AdV-Terminal,gemProdT_ePA_FdV_AdV
+Polarion,ML-119382,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-119382,2021-10-27 09:28:59.770154,done,zoPT_eRp_FdV_AdV,PDT58,E-Rezept-Anwendungen des Versicherten,gemProdT_eRp_AdV
+Polarion,ML-120817,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-120817,2021-10-27 09:28:59.770301,done,zoPT_eRp_APOVZD,PDT59,Apothekenverzeichnis,gemProdT_eRp_APOVZD
+Polarion,ML-119379,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-119379,2021-10-27 09:28:59.770445,done,zoPT_eRp_FD,PDT50,E-Rezept-Fachdienst,gemProdT_eRp_FD
+Polarion,ML-119381,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-119381,2021-10-27 09:28:59.770590,done,zoPT_eRp_FdV,PDT51,E-Rezept-Frontend des Versicherten,gemProdT_eRp_FdV
+Polarion,ML-119347,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-119347,2021-10-27 09:28:59.770735,done,zoPT_FD_KOMLE,PDT24,Fachdienst KOM-LE,gemProdT_FD_KOMLE
+Polarion,ML-119345,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-119345,2021-10-27 09:28:59.770889,done,zoPT_FD_VSDM,PDT26,Fachdienste VSDM,gemProdT_FD_VSDM
+Polarion,ML-119391,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-119391,2021-10-27 09:28:59.771035,done,zoPT_FD_VSDM_nonGKV,PDT63,Fachdienste VSDM nonGKV,gemProdT_FD_VSDM_nonGKV
+Polarion,ML-119351,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-119351,2021-10-27 09:28:59.771180,done,zoPT_gematik_Root_CA,PDT22,gematik Root-CA,gemProdT_gematik_Root_CA
+Polarion,ML-119308,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-119308,2021-10-27 09:28:59.771329,done,zoPT_gSMC_K_ObjSys,,Zulassungsobjekt gSMC-K-Objektsystem,gemProdT_gSMC-K_ObjSys
+Polarion,ML-119309,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-119309,2021-10-27 09:28:59.771476,done,zoPT_gSMC_KT_ObjSys,,Zulassungsobjekt gSMC-KT-Objektsystem,gemProdT_gSMC-KT_ObjSys
+Polarion,ML-119317,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-119317,2021-10-27 09:28:59.771614,done,zoPT_gSMC_KT_ObjSys_G2_1,,Zulassungsobjekt gSMC-KT-Objektsystem G2.1,gemProdT_gSMC-KT_ObjSys_G2_1
+Polarion,ML-119305,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-119305,2021-10-27 09:28:59.771758,done,zoPT_HBA,PDT13,HBA (personalisiert),gemProdT_HBA
+Polarion,ML-119314,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-119314,2021-10-27 09:28:59.771904,done,zoPT_HBA_G2_1,PDT39,HBA G2.1 (personalisiert),gemProdT_HBA_G2_1
+Polarion,ML-119304,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-119304,2021-10-27 09:28:59.772055,rejected,zoPT_HBA_ObjSys2,,Zulassungsobjekt HBA-Objektsystem,gemProdT_HBA_ObjSys
+Polarion,ML-119313,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-119313,2021-10-27 09:28:59.772198,done,zoPT_HBA_ObjSys_G2_1,,Zulassungsobjekt HBA-Objektsystem G2.1,gemProdT_HBA_ObjSys_G2_1
+Polarion,ML-120816,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-120816,2021-10-27 09:28:59.772341,done,zoPT_IDP-AuthModul,PDT53,Identity Provider - Authentisierungsmodul,gemProdT_IDP-AuthModul
+Polarion,ML-119384,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-119384,2021-10-27 09:28:59.772497,done,zoPT_IDP_Dienst,PDT52,Identity Provider - Dienst,gemProdT_IDP-Dienst
+Polarion,ML-119346,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-119346,2021-10-27 09:28:59.772650,done,zoPT_Intermediaer_VSDM,PDT21,Intermediär VSDM,gemProdT_Intermediaer_VSDM
+Polarion,ML-119320,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-119320,2021-10-27 09:28:59.772809,open,zoPT_Kon,PDT17,Konnektor,gemProdT_Kon
+Polarion,ML-119321,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-119321,2021-10-27 09:28:59.772960,rejected,zoPT_Kon_PTV1,,Konnektor PTV1 (VSDM),gemProdT_Kon_PTV1
+Polarion,ML-119322,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-119322,2021-10-27 09:28:59.773104,rejected,zoPT_Kon_PTV2,,"Konnektor PTV2 (VSDM, NFDM)",gemProdT_Kon_PTV2
+Polarion,ML-119323,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-119323,2021-10-27 09:28:59.773242,done,zoPT_Kon_PTV3,,"Konnektor PTV3 (eMP/AMTS, NFDM)",gemProdT_Kon_PTV3
+Polarion,ML-119324,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-119324,2021-10-27 09:28:59.773460,done,zoPT_Kon_PTV4,,Konnektor PTV4 (ePA),gemProdT_Kon_PTV4
+Polarion,ML-119325,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-119325,2021-10-27 09:28:59.773687,done,zoPT_Kon_PTV4Plus,,Konnektor PTV4 (ePA + Komfortsignatur),gemProdT_Kon_PTV4Plus
+Polarion,ML-119326,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-119326,2021-10-27 09:28:59.773857,done,zoPT_Kon_PTV5,PDT17,Konnektor PTV5 (ePA 2.0 + Komfortsignatur),gemProdT_Kon_PTV5
+Polarion,ML-120828,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-120828,2021-10-27 09:28:59.774012,done,zoPT_Konn_Highspeed,PDT67,Highspeed Konnektor,gemProdT_Konn_Highspeed
+Polarion,ML-119327,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-119327,2021-10-27 09:28:59.774161,done,zoPT_KSR,PDT11,Konfigurationsdienst,gemProdT_KSR
+Polarion,ML-119328,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-119328,2021-10-27 09:28:59.774310,done,zoPT_KT,PDT18,eHealth-Kartenterminal,gemProdT_KT
+Polarion,ML-119350,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-119350,2021-10-27 09:28:59.774459,done,zoPT_KTR_AdV,PDT35,KTR-AdV,gemProdT_KTR-AdV
+Polarion,ML-119349,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-119349,2021-10-27 09:28:59.774606,rejected,zoPT_KTR-AdV-Terminal,,KTR-AdV Terminal,gemProdT_KTR-AdV-Terminal
+Polarion,ML-119366,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-119366,2021-10-27 09:28:59.774767,done,zoPT_KTR_Consumer,PDT46,KTR-Consumer,gemProdT_KTR-Consumer
+Polarion,ML-119329,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-119329,2021-10-27 09:28:59.774914,done,zoPT_MobKT,PDT19,Mobiles Kartenterminal,gemProdT_MobKT
+Polarion,ML-119330,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-119330,2021-10-27 09:28:59.775062,done,zoPT_NamD,PDT06,Namensdienst,gemProdT_NamD
+Polarion,ML-125681,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-125681,2021-10-27 09:28:59.775210,open,zoPT_NCPeH_FD,,Fachdienst National Contact Point for eHealth,gemProdT_NCPeH_FD
+Polarion,ML-119331,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-119331,2021-10-27 09:28:59.775355,done,zoPT_OCSP_Proxy,PDT01,OCSP-Proxy,gemProdT_OCSP_Proxy
+Polarion,ML-119389,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-119389,2021-10-27 09:28:59.775510,done,zoPT_PKG,PDT60,Private Key Generator,gemProdT_PKG
+Polarion,ML-119344,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-119344,2021-10-27 09:28:59.775661,done,zoPT_ServiceMon,PDT41,Servicemonitoring,gemProdT_ServiceMon
+Polarion,ML-119335,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-119335,2021-10-27 09:28:59.775810,done,zoPT_SG_BestNetze,PDT10,Sicherheitsgateway Bestandsnetze,gemProdT_SG_BestNetze
+Polarion,ML-119372,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-119372,2021-10-27 09:28:59.775968,done,zoPT_SGDePA,PDT48,Schlüsselgenerierungsdienst ePA,gemProdT_SGD_ePA
+Polarion,ML-119368,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-119368,2021-10-27 09:28:59.776130,done,zoPT_SigD,PDT47,Signaturdienst,gemProdT_SigD
+Polarion,ML-119307,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-119307,2021-10-27 09:28:59.776273,done,zoPT_SMC_B,PDT14,SMC-B (personalisiert),gemProdT_SMC-B
+Polarion,ML-119316,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-119316,2021-10-27 09:28:59.776422,done,zoPT_SMC_B_G2_1,,SMC-B G2.1 (personalisiert),gemProdT_SMC-B_G2_1
+Polarion,ML-119386,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-119386,2021-10-27 09:28:59.776565,rejected,zoPT_SMC-B_G2_1_DI,,SMC-B Dual Interface,gemProdT_SMC-B_G2_1_DI
+Polarion,ML-119306,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-119306,2021-10-27 09:28:59.776706,rejected,zoPT_SMC_B_ObjSys,,Zulassungsobjekt SMC-B-Objektsystem,gemProdT_SMC-B_ObjSys
+Polarion,ML-119315,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-119315,2021-10-27 09:28:59.776858,done,zoPT_SMC_B_ObjSys_G2_1,,Zulassungsobjekt SMC-B-Objektsystem G2.1,gemProdT_SMC-B_ObjSys_G2_1
+Polarion,ML-119387,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-119387,2021-10-27 09:28:59.777002,rejected,zoPT_SMC-B_ObjSys_G2_1_DI,,SMC-B-Objektsystem Dual Interface,gemProdT_SMC-B_ObjSys_G2_1_DI
+Polarion,ML-119332,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-119332,2021-10-27 09:28:59.777140,rejected,zoPT_St_Ampel,,Störungsampel,gemProdT_St_Ampel
+Polarion,ML-120819,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-120819,2021-10-27 09:28:59.777293,verified-done,zoPT_Frontend_TIM,PDT65,TI-Messager Frontend,gemProdT_TIM_Client
+Polarion,ML-120818,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-120818,2021-10-27 09:28:59.777506,verified-done,zoPT_TIM_FD,PDT64,TI-Messager Fachdienst,gemProdT_TIM_FD
+Polarion,ML-119333,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-119333,2021-10-27 09:28:59.777662,done,zoPT_TSL,PDT04,TSL-Dienst,gemProdT_TSL
+Polarion,ML-119334,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-119334,2021-10-27 09:28:59.777815,done,zoPT_VPN_ZugD,PDT09,VPN-Zugangsdienst,gemProdT_VPN_ZugD
+Polarion,ML-119336,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-119336,2021-10-27 09:28:59.777964,done,zoPT_VZD,PDT25,Verzeichnisdienst,gemProdT_VZD
+Polarion,ML-120820,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-120820,2021-10-27 09:28:59.778114,verified-done,zoPT_VZD_FHIR,PDT66,Verzeichnisdienst FHIR,gemProdT_VZD_FHIR
+Polarion,ML-119367,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-119367,2021-10-27 09:28:59.778265,rejected,zoPT_WHD_ePA,,ePA-Wiederherstellungsdienst,gemProdT_WHD_ePA
+Polarion,ML-119338,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-119338,2021-10-27 09:28:59.778420,done,zoPT_X509_TSP_nonQES_eGK,PDT03,Trust Service Provider X.509 (nonQES) – eGK,gemProdT_X509_TSP_nonQES_eGK
+Polarion,ML-119339,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-119339,2021-10-27 09:28:59.778578,done,zoPT_X509_TSP_nonQES_HBA,PDT36,Trust Service Provider X.509 (nonQES) – HBA,gemProdT_X509_TSP_nonQES_HBA
+Polarion,ML-119337,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-119337,2021-10-27 09:28:59.778731,done,zoPT_X509_TSP_nonQES_Komp,PDT37,Trust Service Provider X.509 (nonQES) – Komp,gemProdT_X509_TSP_nonQES_Komp
+Polarion,ML-119340,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-119340,2021-10-27 09:28:59.778883,done,zoPT_X509_TSP_nonQES_SMC_B,PDT38,Trust Service Provider X.509 (nonQES) – SMC-B,gemProdT_X509_TSP_nonQES_SMC-B
+Polarion,ML-119341,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-119341,2021-10-27 09:28:59.779035,done,zoPT_X509_TSP_QES,PDT02,Trust Service Provider X.509 QES,gemProdT_X509_TSP_QES
+Polarion,ML-119342,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-119342,2021-10-27 09:28:59.779185,done,zoPT_ZeitD,PDT07,Zeitdienst,gemProdT_ZeitD
+Polarion,ML-119343,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-119343,2021-10-27 09:28:59.779343,done,zoPT_ZentrNetz,PDT08,Zentrales Netz der TI,gemProdT_ZentrNetz
