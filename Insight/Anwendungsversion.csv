@@ -1,22 +1,32 @@
-﻿Anwendung;Version
-VSDM;1.0
-VSDM;2.0
-KIM;1.0
-KIM;1.5
-KIM ;2.0
-EMP;1.0
-EMP;2.0
-NFDM;1.0
-EPKA;1.0
-EPA;1.1
-EPA;2.0
-EPA;3.0
-EPA;4.0
-E-Rezept;1.0
-E-Rezept;1.1
-E-Rezept;2.0
-TI-Messenger;1.0
-TI-Messenger;1.1
-TI-Messenger;2.0
-WANDA;1.0
-WANDA;2.0
+Quelle,Quelle-Id,Quelle-URL,Sync-Zeitstempel,Status,Title
+Polarion,ML-125709,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-125709,2021-11-03 09:25:34.766600,open,E-Rezept 1.0
+Polarion,ML-125710,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-125710,2021-11-03 09:25:34.766687,open,E-Rezept 1.1
+Polarion,ML-125711,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-125711,2021-11-03 09:25:34.766879,open,E-Rezept 1.5
+Polarion,ML-125712,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-125712,2021-11-03 09:25:34.766967,open,E-Rezept 2.0
+Polarion,ML-125713,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-125713,2021-11-03 09:25:34.767024,open,E-Rezept 3.0
+Polarion,ML-125704,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-125704,2021-11-03 09:25:34.767076,open,eMP 2.0
+Polarion,ML-125703,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-125703,2021-11-03 09:25:34.767127,open,eMP/AMTS
+Polarion,ML-125696,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-125696,2021-11-03 09:25:34.767177,open,ePA 1.0
+Polarion,ML-125697,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-125697,2021-11-03 09:25:34.767227,open,ePA 1.1
+Polarion,ML-125698,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-125698,2021-11-03 09:25:34.767283,open,ePA 2.0
+Polarion,ML-125699,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-125699,2021-11-03 09:25:34.767340,open,ePA 3.0
+Polarion,ML-125700,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-125700,2021-11-03 09:25:34.767390,open,ePA 4.0
+Polarion,ML-125701,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-125701,2021-11-03 09:25:34.767439,open,ePA 5.0
+Polarion,ML-125707,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-125707,2021-11-03 09:25:34.767488,open,ePKA 1.0
+Polarion,ML-125708,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-125708,2021-11-03 09:25:34.767537,open,ePKA 2.0
+Polarion,ML-125714,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-125714,2021-11-03 09:25:34.767586,open,KIM 1.0
+Polarion,ML-125715,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-125715,2021-11-03 09:25:34.767634,open,KIM 1.5
+Polarion,ML-125716,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-125716,2021-11-03 09:25:34.767682,open,KIM 2.0
+Polarion,ML-125695,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-125695,2021-11-03 09:25:34.767731,open,N/A
+Polarion,ML-125705,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-125705,2021-11-03 09:25:34.767780,open,NFDM
+Polarion,ML-125706,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-125706,2021-11-03 09:25:34.767828,open,NFDM 2.0
+Polarion,ML-125717,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-125717,2021-11-03 09:25:34.767876,open,TIM 1.0
+Polarion,ML-125718,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-125718,2021-11-03 09:25:34.767924,open,TIM 1.1
+Polarion,ML-125719,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-125719,2021-11-03 09:25:34.767973,open,TIM 1.5
+Polarion,ML-125720,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-125720,2021-11-03 09:25:34.768021,open,TIM 2.0
+Polarion,ML-125721,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-125721,2021-11-03 09:25:34.768069,open,TIM 3.0
+Polarion,ML-125702,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-125702,2021-11-03 09:25:34.768118,open,VSDM
+Polarion,ML-125722,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-125722,2021-11-03 09:25:34.768166,open,VSDM 1.0
+Polarion,ML-125723,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-125723,2021-11-03 09:25:34.768216,open,VSDM 2.0
+Polarion,ML-125724,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-125724,2021-11-03 09:25:34.768270,open,WANDA
+Polarion,ML-125725,https://polarion-test.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-125725,2021-11-03 09:25:34.768319,open,WANDA 2.0
