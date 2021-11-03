@@ -1,9 +1,0 @@
-﻿Anwendung;Langname;Produktteam;Produkttypen
-VSDM;Versichertenstammdatenmanagement;Euro Vision;
-KIM;Kommunikation in der Medizinversorgung;Communications;
-EMP;E-Medikationsplan;Medical;
-NFDM;Notfalldatenmanagement;Edge;
-EPA;E-Patientenakte;Patient;
-E-Rezept;E-Rezept;Medical;gemProdT_eRp_FD || gemProdT_eRp_FdV
-TI-Messenger;TI-Messenger;Communications;
-WANDA;WANDA;Core Infrastructure;
