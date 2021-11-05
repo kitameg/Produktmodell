@@ -22,17 +22,16 @@ composition:
     - subject: gemProdT_KT
       connectsTo:
         - gemProdT_Kon
-    - subject: gemProdT_ZentrNetz
     - subject: gemProdT_VZD
       connectsTo:
         - gemProdT_ZentrNetz
     - subject: gemProdT_X509_TSP_nonQES_Komp
       connectsTo:
         - gemProdT_ZentrNetz
+    - subject: gemProdT_ZentrNetz
+      connectsTo:
+        - gemProdT_NamD
+        - gemProdT_ZeitD
     - subject: gemProdT_NamD
-      connectsTo:
-        - gemProdT_ZentrNetz
     - subject: gemProdT_ZeitD
-      connectsTo:
-        - gemProdT_ZentrNetz
 
