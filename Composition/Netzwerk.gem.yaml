@@ -1,36 +1,36 @@
 composition:
   name: Netzwerk Sicht
   subjects:
-    - subject: gemProdT_Kon
-      connectsTo:
+    - name: gemProdT_Kon
+      connections:
         - gemProdT_VPN_ZugD
-    - subject: gemProdT_SMC-B
-      connectsTo:
+    - name: gemProdT_SMC-B
+      connections:
         - gemProdT_KT
-    - subject: gemProdT_HBA
-      connectsTo:
+    - name: gemProdT_HBA
+      connections:
         - gemProdT_KT
-    - subject: gemSST_PS_ePA
-      connectsTo:
+    - name: gemSST_PS_ePA
+      connections:
         - gemProdT_Kon
-    - subject: gemProdT_VPN_ZugD
-      connectsTo:
+    - name: gemProdT_VPN_ZugD
+      connections:
         - gemProdT_ZentrNetz
-    - subject: gemProdT_Aktensystem_ePA
-      connectsTo:
+    - name: gemProdT_Aktensystem_ePA
+      connections:
         - gemProdT_ZentrNetz
-    - subject: gemProdT_KT
-      connectsTo:
+    - name: gemProdT_KT
+      connections:
         - gemProdT_Kon
-    - subject: gemProdT_VZD
-      connectsTo:
+    - name: gemProdT_VZD
+      connections:
         - gemProdT_ZentrNetz
-    - subject: gemProdT_X509_TSP_nonQES_Komp
-      connectsTo:
+    - name: gemProdT_X509_TSP_nonQES_Komp
+      connections:
         - gemProdT_ZentrNetz
-    - subject: gemProdT_ZentrNetz
-      connectsTo:
+    - name: gemProdT_ZentrNetz
+      connections:
         - gemProdT_NamD
         - gemProdT_ZeitD
-    - subject: gemProdT_NamD
-    - subject: gemProdT_ZeitD
+    - name: gemProdT_NamD
+    - name: gemProdT_ZeitD

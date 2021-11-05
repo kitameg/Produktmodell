@@ -26,7 +26,7 @@
 ## The target column may contain a comma-separated list of values.
 ## Multiple connect entries are allowed.
 #
-# connect: {"from": "connectsTo", "to": "subject", "style": "curved=1;fontSize=11;"}
+# connect: {"from": "connections", "to": "subject", "style": "curved=1;fontSize=11;"}
 #
 ## Node x-coordinate. Possible value is a column name. Default is empty. Layouts will
 ## override this value.
@@ -75,7 +75,7 @@
 # layout: verticalflow
 #
 ## ---- CSV below this line. First line are column names. ----
-category,subject,title,connectsTo
+category,subject,title,connections
 Produkttyp,gemProdT_Kon,gemProdT_Kon,gemProdT_VPN_ZugD
 Produkttyp,gemProdT_SMC-B,gemProdT_SMC-B,gemProdT_KT
 Produkttyp,gemProdT_HBA,gemProdT_HBA,gemProdT_KT
