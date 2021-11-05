@@ -1,0 +1,38 @@
+composition:
+  name: Netzwerk Sicht
+  subjects:
+    - subject: gemProdT_Kon
+      connectsTo:
+        - gemProdT_VPN_ZugD
+    - subject: gemProdT_SMC-B
+      connectsTo:
+        - gemProdT_KT
+    - subject: gemProdT_HBA
+      connectsTo:
+        - gemProdT_KT
+    - subject: gemSST_PS_ePA
+      connectsTo:
+        - gemProdT_Kon        
+    - subject: gemProdT_VPN_ZugD
+      connectsTo:
+        - gemProdT_ZentrNetz
+    - subject: gemProdT_Aktensystem_ePA
+      connectsTo:
+        - gemProdT_ZentrNetz
+    - subject: gemProdT_KT
+      connectsTo:
+        - gemProdT_Kon
+    - subject: gemProdT_ZentrNetz
+    - subject: gemProdT_VZD
+      connectsTo:
+        - gemProdT_ZentrNetz
+    - subject: gemProdT_X509_TSP_nonQES_Komp
+      connectsTo:
+        - gemProdT_ZentrNetz
+    - subject: gemProdT_NamD
+      connectsTo:
+        - gemProdT_ZentrNetz
+    - subject: gemProdT_ZeitD
+      connectsTo:
+        - gemProdT_ZentrNetz
+
