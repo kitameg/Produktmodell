@@ -12,7 +12,7 @@ composition:
         - gemProdT_KT
     - subject: gemSST_PS_ePA
       connectsTo:
-        - gemProdT_Kon        
+        - gemProdT_Kon
     - subject: gemProdT_VPN_ZugD
       connectsTo:
         - gemProdT_ZentrNetz
@@ -34,4 +34,3 @@ composition:
         - gemProdT_ZeitD
     - subject: gemProdT_NamD
     - subject: gemProdT_ZeitD
-
