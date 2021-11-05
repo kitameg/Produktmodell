@@ -1,0 +1,43 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/kitameg/Produktmodell/Schema/gem.schema.json",
+  "title": "Productmodel Composition",
+  "description": "Schema für Modellierung der Telematikinfrastruktur",
+  "type": "object",
+  "properties": {
+    "composition": {
+      "description": "Composition of a dependency graph between the systems (subjects)",
+      "type": "object",
+      "properies": {
+        "name": "string",
+        "subjects": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "subject": {
+                  "type": "string",
+                  "$ref" : "Produkttyp.schema.json"        
+              },
+              "connectsTo": {
+                "type": "array",
+                "items": {
+                  "type": "string",
+                  "$ref" : "Produkttyp.schema.json"        
+                }
+              },
+              "contains": {
+                "type": "array",
+                "items": {
+                  "type": "string",
+                  "$ref" : "Produkttyp.schema.json"        
+                }          
+              }
+            }    
+          }
+        }
+      },
+      "required": ["name", "subjects"]
+    }
+  }
+}
