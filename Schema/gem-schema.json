@@ -17,7 +17,7 @@
           "type": "array",
           "items": {
             "type": "object",
-            "required": [ "name", "connections" ],
+            "required": [ "name" ],
             "properties": {
               "name": { 
                 "type": "string",
