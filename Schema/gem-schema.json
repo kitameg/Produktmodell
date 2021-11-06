@@ -26,7 +26,10 @@
               "connections": {
                 "type": "array",
                 "items": {
-                  "$ref": "Produkttyp.schema.json"
+                  "anyOf": [
+                    {"$ref": "Produkttyp.schema.json"},
+                    { "enum": ["metaClientsNode", "metaProviderNode", "metaPlattformCentralNode"] }
+                  ]
                 }
               }
             }
