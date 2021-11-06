@@ -9,6 +9,12 @@
     }
   },
   "$defs": {
+    "compositionTypes": {
+      "anyOf": [
+        {"$ref": "Produkttyp.schema.json"},
+        { "enum": ["metaClientsNode", "metaProviderNode", "metaPlattformCentralNode"] }
+      ]
+    },
     "composition": {
       "type": "object",
       "required": [ "subjects" ],
@@ -21,15 +27,12 @@
             "properties": {
               "name": { 
                 "type": "string",
-                "$ref": "Produkttyp.schema.json"
+                "$ref": "#/$defs/compositionTypes"
               },
               "connections": {
                 "type": "array",
                 "items": {
-                  "anyOf": [
-                    {"$ref": "Produkttyp.schema.json"},
-                    { "enum": ["metaClientsNode", "metaProviderNode", "metaPlattformCentralNode"] }
-                  ]
+                  "$ref": "#/$defs/compositionTypes"
                 }
               }
             }
