@@ -23,9 +23,9 @@
           "type": "array",
           "items": {
             "type": "object",
-            "required": [ "name" ],
+            "required": [ "subject" ],
             "properties": {
-              "name": { 
+              "subject": { 
                 "type": "string",
                 "$ref": "#/$defs/compositionTypes"
               },
