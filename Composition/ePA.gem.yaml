@@ -1,0 +1,23 @@
+composition:
+  subjects:
+    - subject: gemProdT_Aktensystem_ePA
+      connections:
+        - gemProdT_ePA_FdV
+    - subject: gemProdT_ePA_FdV
+    - subject: gemProdT_Kon
+      connections:
+        - gemProdT_Aktensystem_ePA
+        - gemProdT_VZD
+        - gemProdT_SGD_ePA
+    - subject: gemSST_PS_ePA
+      connections:
+        - gemProdT_Kon
+    - subject: gemProdT_VZD
+      connections:
+        - gemProdT_Aktensystem_ePA
+    - subject: gemProdT_SGD_ePA
+      connections:
+        - gemProdT_ePA_FdV
+    - subject: gemProdT_SigD
+      connections:
+        - gemProdT_ePA_FdV

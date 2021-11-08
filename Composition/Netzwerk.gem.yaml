@@ -62,15 +62,12 @@ composition:
     - subject: gemProdT_ServiceMon
     - subject: gemProdT_KSR
     - subject: gemProdT_VZD
-      connections:
-        - gemProdT_Aktensystem_ePA
     - subject: gemProdT_VZD_FHIR
       connections:
         - gemProdT_TIM_Client
     - subject: gemProdT_NamD
     - subject: gemProdT_ZeitD
     - subject: gemProdT_TSL
-    - subject: gemProdT_X509_TSP_nonQES_Komp
     - subject: gemProdT_CVC_TSP
     - subject: gemProdT_CVC_Root_ECC
     - subject: gemProdT_gematik_Root_CA
