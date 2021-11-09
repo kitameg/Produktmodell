@@ -1,8 +1,8 @@
 Quelle,Quelle-Id,Quelle-URL,Sync-Zeitstempel,Title,Enumumeration-Id
-Polarion,inPreparation,https://polarion-test.int.gematik.de/polarion/,2021-11-03 09:25:34.635088,in Vorbereitung,eApprovalValidity
-Polarion,notApprovable,https://polarion-test.int.gematik.de/polarion/,2021-11-03 09:25:34.635160,nicht zulassungsfähig,eApprovalValidity
-Polarion,approvable,https://polarion-test.int.gematik.de/polarion/,2021-11-03 09:25:34.635193,zulassungsfähig,eApprovalValidity
-Polarion,confirmable,https://polarion-test.int.gematik.de/polarion/,2021-11-03 09:25:34.635253,bestätigungsfähig,eApprovalValidity
-Polarion,valid,https://polarion-test.int.gematik.de/polarion/,2021-11-03 09:25:34.635284,gültig (keine Neuzulassung),eApprovalValidity
-Polarion,discontinued,https://polarion-test.int.gematik.de/polarion/,2021-11-03 09:25:34.635315,abgekündigt,eApprovalValidity
-Polarion,endOfLife,https://polarion-test.int.gematik.de/polarion/,2021-11-03 09:25:34.635344,EOL (EndOfLife),eApprovalValidity
+Polarion,inPreparation,https://polarion.int.gematik.de/polarion/,2021-11-09 13:35:34.202298,in Vorbereitung,eApprovalValidity
+Polarion,notApprovable,https://polarion.int.gematik.de/polarion/,2021-11-09 13:35:34.202355,nicht zulassungsfähig,eApprovalValidity
+Polarion,approvable,https://polarion.int.gematik.de/polarion/,2021-11-09 13:35:34.202390,zulassungsfähig,eApprovalValidity
+Polarion,confirmable,https://polarion.int.gematik.de/polarion/,2021-11-09 13:35:34.202422,bestätigungsfähig,eApprovalValidity
+Polarion,valid,https://polarion.int.gematik.de/polarion/,2021-11-09 13:35:34.202452,gültig (keine Neuzulassung),eApprovalValidity
+Polarion,discontinued,https://polarion.int.gematik.de/polarion/,2021-11-09 13:35:34.202481,abgekündigt,eApprovalValidity
+Polarion,endOfLife,https://polarion.int.gematik.de/polarion/,2021-11-09 13:35:34.202525,EOL (EndOfLife),eApprovalValidity
