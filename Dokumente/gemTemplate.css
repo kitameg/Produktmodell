@@ -1,0 +1,30 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 12pt;
+  margin: 30px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-size: 150%;
+  margin-top: 2em;
+  margin-bottom: 1em;
+}
+
+dl {
+  border-left: 3pt lightgrey solid;
+}
+
+dt {
+  font-weight: bold;
+  margin-left: 5pt;
+  padding-bottom: 10pt;
+}
+
+dd {
+  margin-left: 5pt;
+}
+
+table, th, td {
+  border: 1px solid gray;
+  border-collapse: collapse;
+}
