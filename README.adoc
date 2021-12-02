@@ -1,6 +1,0 @@
-= Produktmodell der TI
-Dieses Repository enthält die Metadaten über die Produkte der TI für den Proof-of-Concept des datenbasierten Modells der Telematikinfrastruktur. 
-Ziel des PoCs ist einen verlinkbaren Datenraum der TI Produkte auf verschiedenen Ebeben zu definieren und über Web-Services und Web-Anwendungen zur Verfügung zu stellen. 
-
-Zusätzlich zu Raw-Daten zu gematik Spezifikationen (Produkttypen, Anbietertypen und deren Versionen) weitere notwendige Informationsobjekte zu identifizieren, wie
-bspw. Anwendungen, Schnittstellen, Betriebsservices und Artefakte. Diese zusätzliche Daten werden hier als YAML Files erfasst und später in geeignete Daten-Systeme überführt. 
