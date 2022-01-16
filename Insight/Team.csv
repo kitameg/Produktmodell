@@ -1,15 +1,15 @@
-Quelle,Quelle-Id,Quelle-URL,Sync-Zeitstempel,Status,Title
-Polarion,ML-123395,https://polarion.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-123395,2021-11-09 13:35:34.438805,open,Communications
-Polarion,ML-123389,https://polarion.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-123389,2021-11-09 13:35:34.438878,open,Core Infrastructure
-Polarion,ML-123401,https://polarion.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-123401,2021-11-09 13:35:34.438935,open,Demis
-Polarion,ML-123390,https://polarion.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-123390,2021-11-09 13:35:34.438990,open,Edge
-Polarion,ML-123398,https://polarion.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-123398,2021-11-09 13:35:34.439042,open,Euro Vision
-Polarion,ML-123392,https://polarion.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-123392,2021-11-09 13:35:34.439092,open,Identity Management
-Polarion,ML-123396,https://polarion.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-123396,2021-11-09 13:35:34.439141,open,Medical
-Polarion,ML-123397,https://polarion.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-123397,2021-11-09 13:35:34.439191,open,Medical-App
-Polarion,ML-123403,https://polarion.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-123403,2021-11-09 13:35:34.439240,open,OPS
-Polarion,ML-123394,https://polarion.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-123394,2021-11-09 13:35:34.439289,open,Patient
-Polarion,ML-123399,https://polarion.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-123399,2021-11-09 13:35:34.439338,open,Services PS
-Polarion,ML-123402,https://polarion.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-123402,2021-11-09 13:35:34.439388,open,SI
-Polarion,ML-123391,https://polarion.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-123391,2021-11-09 13:35:34.439437,open,Smartcard
-Polarion,ML-123400,https://polarion.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-123400,2021-11-09 13:35:34.439491,open,Testportal
+Quelle,Quelle-Id,Quelle-URL,Status,Title
+Polarion,ML-123395,https://polarion.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-123395,open,Communications
+Polarion,ML-123389,https://polarion.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-123389,open,Core Infrastructure
+Polarion,ML-123401,https://polarion.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-123401,open,Demis
+Polarion,ML-123390,https://polarion.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-123390,open,Edge
+Polarion,ML-123398,https://polarion.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-123398,open,Euro Vision
+Polarion,ML-123392,https://polarion.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-123392,open,Identity Management
+Polarion,ML-123396,https://polarion.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-123396,open,Medical
+Polarion,ML-123397,https://polarion.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-123397,open,Medical-App
+Polarion,ML-123403,https://polarion.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-123403,open,OPS
+Polarion,ML-123394,https://polarion.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-123394,open,Patient
+Polarion,ML-123399,https://polarion.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-123399,open,Services PS
+Polarion,ML-123402,https://polarion.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-123402,open,SI
+Polarion,ML-123391,https://polarion.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-123391,open,Smartcard
+Polarion,ML-123400,https://polarion.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-123400,open,Testportal
