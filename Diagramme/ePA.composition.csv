@@ -21,7 +21,7 @@
 ## The target column may contain a comma-separated list of values.
 ## Multiple connect entries are allowed.
 #
-# connect: {"from": "connections", "to": "subject", "style": "curved=1;fontSize=11;endArrow=none;endFill=0;"}
+# connect: {"from": "connections", "to": "node", "style": "curved=1;fontSize=11;endArrow=none;endFill=0;"}
 #
 ## Node x-coordinate. Possible value is a column name. Default is empty. Layouts will
 ## override this value.
@@ -70,7 +70,7 @@
 # layout: verticalflow
 #
 ## ---- CSV below this line. First line are column names. ----
-subject,category,title,connections,url,style
+node,category,title,connections,url,style
 gemProdT_Aktensystem_ePA,Produkttyp,gemProdT_Aktensystem_ePA,gemProdT_ePA_FdV,https://fachportal.gematik.de/,label;strokeColor=#82b366;fillColor=#d5e8d4;image=https://cdn4.iconfinder.com/data/icons/small-n-flat/24/database-48.png
 gemProdT_ePA_FdV,Produkttyp,gemProdT_ePA_FdV,,https://fachportal.gematik.de/,label;strokeColor=#6c8ebf;fillColor=#dae8fc;image=https://cdn0.iconfinder.com/data/icons/small-n-flat/24/678070-tablet-48.png
 gemProdT_Kon,Produkttyp,gemProdT_Kon,"gemProdT_Aktensystem_ePA,gemProdT_VZD,gemProdT_SGD_ePA",https://fachportal.gematik.de/,label;strokeColor=#d79b00;fillColor=#ffe6cc;image=https://cdn0.iconfinder.com/data/icons/small-n-flat/24/678089-component-48.png

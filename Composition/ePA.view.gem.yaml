@@ -1,0 +1,25 @@
+name: Gesamtübersicht der TI
+description: Alle Produkttypen der TI
+layout: verticalflow
+nodes:
+  - name: gemProdT_Aktensystem_ePA
+    connections:
+      - gemProdT_ePA_FdV
+  - name: gemProdT_ePA_FdV
+  - name: gemProdT_Kon
+    connections:
+      - gemProdT_Aktensystem_ePA
+      - gemProdT_VZD
+      - gemProdT_SGD_ePA
+  - name: gemSST_PS_ePA
+    connections:
+      - gemProdT_Kon
+  - name: gemProdT_VZD
+    connections:
+      - gemProdT_Aktensystem_ePA
+  - name: gemProdT_SGD_ePA
+    connections:
+      - gemProdT_ePA_FdV
+  - name: gemProdT_SigD
+    connections:
+      - gemProdT_ePA_FdV
