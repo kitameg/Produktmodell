@@ -29,7 +29,7 @@ Polarion,ML-119313,https://polarion.int.gematik.de/polarion/#/project/Mainline_O
 Polarion,ML-120816,https://polarion.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-120816,done,gemProdT_IDP-AuthModul,PDT53,Identity Provider - Authentisierungsmodul,ML-123392
 Polarion,ML-119384,https://polarion.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-119384,done,gemProdT_IDP-Dienst,PDT52,Identity Provider - Dienst,ML-123392
 Polarion,ML-124041,https://polarion.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-124041,verified-done,gemProdT_IDP-Sek,PDT68,Sektoraler Identity Provider,ML-123392
-Polarion,ML-126788,https://polarion.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-126788,open,gemProdT_IDP_FedMaster,,Federation Master,ML-123392
+Polarion,ML-126788,https://polarion.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-126788,open,gemProdT_IDP_FedMaster,PDT70,Federation Master,ML-123392
 Polarion,ML-119346,https://polarion.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-119346,done,gemProdT_Intermediaer_VSDM,PDT21,Intermediär VSDM,ML-123389
 Polarion,ML-119320,https://polarion.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-119320,open,gemProdT_Kon,PDT17,Konnektor,ML-123390
 Polarion,ML-119323,https://polarion.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-119323,done,gemProdT_Kon_PTV3,,"Konnektor PTV3 (eMP/AMTS, NFDM)",ML-123390
@@ -57,8 +57,8 @@ Polarion,ML-120819,https://polarion.int.gematik.de/polarion/#/project/Mainline_O
 Polarion,ML-120818,https://polarion.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-120818,verified-done,gemProdT_TIM_FD,PDT64,TI-Messenger Fachdienst,ML-123395
 Polarion,ML-119333,https://polarion.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-119333,done,gemProdT_TSL,PDT04,TSL-Dienst,ML-123389
 Polarion,ML-119334,https://polarion.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-119334,done,gemProdT_VPN_ZugD,PDT09,VPN-Zugangsdienst,ML-123389
-Polarion,ML-119336,https://polarion.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-119336,done,gemProdT_VZD,PDT25,Verzeichnisdienst,ML-123395
-Polarion,ML-120820,https://polarion.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-120820,verified-done,gemProdT_VZD_FHIR,PDT66,Verzeichnisdienst FHIR,ML-123395
+Polarion,ML-119336,https://polarion.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-119336,done,gemProdT_VZD,PDT25,Verzeichnisdienst,ML-127054
+Polarion,ML-120820,https://polarion.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-120820,verified-rejected,gemProdT_VZD_FHIR,PDT66,Verzeichnisdienst FHIR,ML-127054
 Polarion,ML-119338,https://polarion.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-119338,done,gemProdT_X509_TSP_nonQES_eGK,PDT03,Trust Service Provider X.509 (nonQES) – eGK,ML-123389
 Polarion,ML-119339,https://polarion.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-119339,done,gemProdT_X509_TSP_nonQES_HBA,PDT36,Trust Service Provider X.509 (nonQES) – HBA,ML-123389
 Polarion,ML-119337,https://polarion.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-119337,done,gemProdT_X509_TSP_nonQES_Komp,PDT37,Trust Service Provider X.509 (nonQES) – Komp,ML-123389
