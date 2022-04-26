@@ -1,0 +1,6 @@
+Quelle,Quelle-Id,Quelle-URL,Status,Type-Id,TI-Betrieb-Ids,AnzeigeName,Team-Id
+Polarion,ML-119360,https://polarion.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-119360,done,gemAnw_WA_aAdG,,Andere Anwendungen des Gesundheitswesens (aAdG) und Andere Anwendungen des Gesundheitswesens mit Zugriff auf Dienste der TI aus angeschlossenen Netzen des Gesundheitswesens (aAdG-NetG-TI),ML-123389
+Polarion,ML-119361,https://polarion.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-119361,done,gemAnw_WA_aAdGNetG,,Andere Anwendungen des Gesundheitswesens ohne Zugriff auf Dienste der TI in angeschlossenen Netzen des Gesundheitswesens (aAdG-NetG),ML-123389
+Polarion,ML-121051,https://polarion.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-121051,done,gemAnw_WANDA_Basic,PDT54,Anwendungssteckbrief WANDA Basic,ML-123389
+Polarion,ML-121048,https://polarion.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-121048,done,gemAnw_WANDA_Smart,PDT55,Anwendungssteckbrief WANDA Smart,ML-123389
+Polarion,ML-122003,https://polarion.int.gematik.de/polarion/#/project/Mainline_OPB1/workitem?id=ML-122003,done,gemAnw_WANDA_Smart_Hosting,PDT57,Anwendungssteckbrief WANDA Smart Hosting,ML-123389
